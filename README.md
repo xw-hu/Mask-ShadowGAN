@@ -9,7 +9,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ## USR Dataset
 
-Our USR dataset is available for download at [Google Drive](https://drive.google.com/open?id=1TdxKAWPOCnNcP_TFr-4tgQzES47Nsa4_).
+Our USR dataset is available for download at [Google Drive](https://drive.google.com/open?id=1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ).
 
 
 ## Citation
