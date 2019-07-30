@@ -36,3 +36,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 2. Run ```test.py```
 
 
+## Acknowledgments
+Code is implemented based on a [clean and readable Pytorch implementation of CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN). We would like to thank Aitor Ruano and the authors of [CycleGAN](https://arxiv.org/abs/1703.10593), Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros.
+
+
