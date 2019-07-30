@@ -19,7 +19,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 }
 
         
-## Requirement
+## Prerequisites
 * Python 3.5
 * PyTorch 1.0
 * torchvision
