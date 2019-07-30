@@ -1,4 +1,4 @@
-# Mask-ShadowGAN
+# Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data
 
 
 by Xiaowei Hu, Yitong Jiang, Chi-Wing Fu, and Pheng-Ann Heng
