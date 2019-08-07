@@ -284,7 +284,7 @@ for epoch in range(opt.epoch, opt.n_epochs):
 
 	# Update learning rates
 	lr_scheduler_G.step()
-	optimizer_G.step()
+	lr_scheduler_D_A.step()
 	lr_scheduler_D_B.step()
 
 
