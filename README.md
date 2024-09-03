@@ -13,15 +13,14 @@ Our USR dataset is available for download at [Google Drive](https://drive.google
 
 
 ## Citation
-
+```
 @inproceedings{hu2019mask,        
-&nbsp;&nbsp;&nbsp;&nbsp;  title={{Mask-ShadowGAN}: Learning to Remove Shadows from Unpaired Data},         
-&nbsp;&nbsp;&nbsp;&nbsp;  author={Hu, Xiaowei and Jiang, Yitong and Fu, Chi-Wing and Heng, Pheng-Ann},         
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle={ICCV},        
-&nbsp;&nbsp;&nbsp;&nbsp;  year={2019},        
-&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear},       
+  title={{Mask-ShadowGAN}: Learning to Remove Shadows from Unpaired Data},         
+  author={Hu, Xiaowei and Jiang, Yitong and Fu, Chi-Wing and Heng, Pheng-Ann},         
+  booktitle={ICCV},       
+  year={2019}
 }
-
+```
         
 ## Prerequisites
 * Python 3.5
