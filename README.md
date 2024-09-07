@@ -21,6 +21,11 @@ Our USR dataset is available for download at [Google Drive](https://drive.google
   year={2019}
 }
 ```
+
+## Results
+
+Please find the new results at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
+
         
 ## Prerequisites
 * Python 3.5
